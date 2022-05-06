@@ -158,7 +158,7 @@ translate chinese strings:
 
     # game/screens.rpy:2923
     old "Enter"
-    new "输入"
+    new "Enter"
 
     # game/screens.rpy:2924
     old "Advances dialogue and activates the interface."
@@ -170,11 +170,11 @@ translate chinese strings:
 
     # game/screens.rpy:2931
     old "Arrow Keys"
-    new "箭头键"
+    new "方向键"
 
     # game/screens.rpy:2935
     old "Escape"
-    new "退出"
+    new "Escape"
 
     # game/screens.rpy:2936
     old "Accesses the game menu."
@@ -182,19 +182,19 @@ translate chinese strings:
 
     # game/screens.rpy:2939
     old "Ctrl"
-    new "控制"
+    new "Ctrl"
 
     # game/screens.rpy:2943
     old "Tab"
-    new "选项卡"
+    new "Tab"
 
     # game/screens.rpy:2947
     old "Page Up"
-    new "选项卡"
+    new "Page Up"
 
     # game/screens.rpy:2951
     old "Page Down"
-    new "下一页"
+    new "Page Down"
 
     # game/screens.rpy:2956
     old "I"
@@ -300,11 +300,11 @@ translate chinese strings:
 
     # game/screens.rpy:792
     old "Possibility To Choose Desired Content"
-    new "选择理想内容的可能性"
+    new "想怎么选就怎么选"
 
     # game/screens.rpy:794
     old "Optional Mini-Games And Activities"
-    new "可选的迷你游戏和活动"
+    new "各种小游戏和活动任您挑选"
 
     # game/screens.rpy:802
     old "VISUAL NOVEL"
@@ -312,15 +312,15 @@ translate chinese strings:
 
     # game/screens.rpy:807
     old "All In One Storytelling"
-    new "沉浸式故事讲述"
+    new "故事引人入胜"
 
     # game/screens.rpy:809
     old "Occasional Choices"
-    new "少量的选择"
+    new "有限的选择"
 
     # game/screens.rpy:811
     old "Plot-Driven Structure"
-    new "时下结构"
+    new "故事导向的游戏结构"
 
     # game/screens.rpy:2320
     old "DISPLAY"
@@ -332,7 +332,7 @@ translate chinese strings:
 
     # game/screens.rpy:2345
     old "WINDOWED"
-    new "窗口"
+    new "窗口化"
 
     # game/screens.rpy:2350
     old "ROLLBACK SLIDE"
