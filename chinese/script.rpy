@@ -4,13 +4,13 @@
 translate chinese 69ff737f:
 
     # "Here you can keep track of all the routes, activities, etc. that are available to you. and quickly navigate to the desired one, without wasting time walking around the locations and searching. Next to the avatars of the characters are icons, the decoding of which is next."
-    "在这里，你可以跟踪所有的可以的路线，活动等，并快速导航到所需的一个，而不浪费时间走过地图和搜索。在角色的化身旁边的图标，是对图标的解释。"
+    "在这里你可以记录所有可用的路线、活动等交互选项。并快速导航到所需的位置，而无需浪费时间四处走动和搜索。人物头像旁边是图标，接下来是对图标的解解释。"
 
 # game/script.rpy:742
 translate chinese start_54c881dc:
 
     # NoName "Hi! My name is..."
-    NoName "你好！我的名字是..."
+    NoName "你好！我叫..."
 
 # game/script.rpy:768
 translate chinese start_input_2_a0ecd7a8:
@@ -22,7 +22,7 @@ translate chinese start_input_2_a0ecd7a8:
 translate chinese start_input_2_f789cadc:
 
     # ch_Name "I should have been at training camp with my team right now."
-    ch_Name "我现在应该和我的队员们在训练营。"
+    ch_Name "我本来应该和我的队员们在一起训练。"
 
 # game/script.rpy:776
 translate chinese start_input_2_d05c9319:
@@ -64,7 +64,7 @@ translate chinese start_input_2_9cc3f3ac:
 translate chinese start_input_2_55620e58:
 
     # ch_Name "Samantha suggested I try photography."
-    ch_Name "Samantha建议我试试摄影。"
+    ch_Name "萨曼莎建议我试试摄影。"
 
 # game/script.rpy:791
 translate chinese start_input_2_a8a5cb72:
@@ -124,7 +124,7 @@ translate chinese start_input_2_fcb030eb:
 translate chinese start_input_2_944e7bfb:
 
     # ch_Name "Please don't start that, Olivia, I've been working all day."
-    ch_Name "别这么说，Olivia，我忙了一整天。"
+    ch_Name "别这么说，奥利维亚，我忙了一整天。"
 
 # game/script.rpy:869
 translate chinese start_input_2_9039396f:
@@ -166,13 +166,13 @@ translate chinese start_input_2_ad8c35fe:
 translate chinese start_input_2_9a44f10c:
 
     # Olivia "That's what Don was talking about. You're out of control!"
-    Olivia "Don说的就是这个。你失控了!"
+    Olivia "正如多恩所言，你根本无法自控!"
 
 # game/script.rpy:883
 translate chinese start_input_2_3a73df72:
 
     # Olivia "Your ingratitude leaves us no choice."
-    Olivia "你的忘恩负义使我们别无选择。"
+    Olivia "你的忘恩负义让我们别无选择。"
 
 # game/script.rpy:885
 translate chinese start_input_2_2a5612ed:
@@ -196,7 +196,7 @@ translate chinese start_input_2_2043c397:
 translate chinese start_input_2_f6a83891:
 
     # ch_Name "Olivia..."
-    ch_Name "Olivia..."
+    ch_Name "奥利维亚..."
 
 # game/script.rpy:893
 translate chinese start_input_2_117ab70a:
@@ -244,13 +244,13 @@ translate chinese start_input_2_245150b8:
 translate chinese start_input_2_5783fa11:
 
     # Olivia "You should've done less loafing and studied more. Like Ashley!"
-    Olivia "少游手好闲，多学习。多向Ashley学一学!"
+    Olivia "少游手好闲，多学习。多向阿什利学一学!"
 
 # game/script.rpy:909
 translate chinese start_input_2_aedee487:
 
     # Olivia "And now what?"
-    Olivia "现在怎么办?"
+    Olivia "现在你想怎样?"
 
 # game/script.rpy:911
 translate chinese start_input_2_036404a6:
@@ -304,7 +304,7 @@ translate chinese start_input_2_42f41d8b:
 translate chinese start_input_2_b962a7e0:
 
     # Olivia "We won't let you do it with your feet dangling off Don's neck!"
-    Olivia "我们不会让你白吃白住的!"
+    Olivia "我们是不会让你白吃白住的!"
 
 # game/script.rpy:929
 translate chinese start_input_2_f6f5841f:
@@ -322,13 +322,13 @@ translate chinese start_input_2_bca2c05c:
 translate chinese start_input_2_f4cb3c7a:
 
     # ch_Name "What do you mean? Are you kicking me out?"
-    ch_Name "你什么意思?你要赶我出去吗?"
+    ch_Name "你什么意思?你要把我赶出去吗?"
 
 # game/script.rpy:935
 translate chinese start_input_2_90f3a346:
 
     # ch_Name "But, Olivia, come on... Where am I supposed to go?"
-    ch_Name "但是，Olivia，拜托... 我能去哪里?"
+    ch_Name "可是，奥利维亚，别这样... 我能去哪呢?"
 
 # game/script.rpy:937
 translate chinese start_input_2_2661214d:
@@ -340,13 +340,13 @@ translate chinese start_input_2_2661214d:
 translate chinese start_input_2_3c004877:
 
     # Olivia "You're my best friend's son, God rest her soul."
-    Olivia "你是我最好朋友的儿子，愿她的灵魂安息。"
+    Olivia "你是我闺蜜的儿子，愿她的灵魂安息。"
 
 # game/script.rpy:941
 translate chinese start_input_2_668cf83e:
 
     # Olivia "And I talked Don out of kicking you out."
-    Olivia "我告诉Don不要把你赶出去。"
+    Olivia "我告诉多恩不要把你赶出去。"
 
 # game/script.rpy:943
 translate chinese start_input_2_cbbc98eb:
@@ -388,19 +388,19 @@ translate chinese start_input_2_eb708d4a:
 translate chinese start_input_2_1394e177:
 
     # Olivia "Pay your rent as a lodger."
-    Olivia "以房客的身份支付房租。"
+    Olivia "就要以房客的身份支付房租。"
 
 # game/script.rpy:957
 translate chinese start_input_2_306af026:
 
     # ch_Name "What?! What?!"
-    ch_Name "什么?! 什么?!"
+    ch_Name "什么?! 你说什么?!"
 
 # game/script.rpy:959
 translate chinese start_input_2_97dd3450:
 
     # Olivia "I expect payment by the fifth of every month."
-    Olivia "我希望每月5号前付款。"
+    Olivia "我希望每月5号前能够拿到钱。"
 
 # game/script.rpy:961
 translate chinese start_input_2_8ac87752:
@@ -418,7 +418,7 @@ translate chinese start_input_2_833ce195:
 translate chinese start_input_2_db8f91ff:
 
     # ch_Name "Olivia, hey. Tell me you're kidding..."
-    ch_Name "Olivia，嘿。 告诉我你在开玩笑..."
+    ch_Name "奥利维亚，嘿。 告诉我你在开玩笑..."
 
 # game/script.rpy:967
 translate chinese start_input_2_3da42f20:
@@ -430,7 +430,7 @@ translate chinese start_input_2_3da42f20:
 translate chinese start_input_2_a680031d:
 
     # Olivia "Plus a security deposit in case of property damage."
-    Olivia "再加一笔押金以防财产受损。"
+    Olivia "再加一笔押金以防财产损失。"
 
 # game/script.rpy:971
 translate chinese start_input_2_b863e1f9:
@@ -454,13 +454,13 @@ translate chinese start_input_2_a889e973:
 translate chinese start_input_2_419bb65f:
 
     # Olivia "You're under my roof."
-    Olivia "你在我的地盘。"
+    Olivia "你可是在我的地盘上。"
 
 # game/script.rpy:979
 translate chinese start_input_2_b59257ff:
 
     # Olivia "You follow my rules."
-    Olivia "你就要听我的话。"
+    Olivia "你就要听我的。"
 
 # game/script.rpy:981
 translate chinese start_input_2_0c3ee8a6:
@@ -472,7 +472,7 @@ translate chinese start_input_2_0c3ee8a6:
 translate chinese start_input_2_143d02b4:
 
     # Olivia "Go into the living room and say it to Don's face."
-    Olivia "到客厅里去，当着Don的面说。"
+    Olivia "到客厅里去，当着多恩的面说。"
 
 # game/script.rpy:985
 translate chinese start_input_2_82ed18d6:
@@ -490,7 +490,7 @@ translate chinese start_input_2_b8f6f104:
 translate chinese start_input_2_931280c0:
 
     # ch_Name "All right. I'll talk to Don."
-    ch_Name "好吧。我会和Don谈谈。"
+    ch_Name "好吧。我会和多恩谈谈。"
 
 # game/script.rpy:991
 translate chinese start_input_2_512eba66:
@@ -558,7 +558,7 @@ translate chinese strings:
 
     # game/script.rpy:84
     old "Lesser Heal"
-    new "轻微的治愈"
+    new "微量治疗"
 
     # game/script.rpy:86
     old "Stoneskin"
@@ -670,7 +670,7 @@ translate chinese strings:
 
     # game/script.rpy:142
     old "Elijah's Room"
-    new "Elijah的房间"
+    new "以利亚的房间"
 
     # game/script.rpy:144
     old "Outside"
@@ -686,11 +686,11 @@ translate chinese strings:
 
     # game/script.rpy:150
     old "Ashley's Bedroom"
-    new "Ashley的卧室"
+    new "阿什利的卧室"
 
     # game/script.rpy:152
     old "Samantha's Bedroom"
-    new "Samantha的卧室"
+    new "萨曼莎的卧室"
 
     # game/script.rpy:154
     old "Downstairs"
@@ -702,7 +702,7 @@ translate chinese strings:
 
     # game/script.rpy:158
     old "Olivia's Bedroom"
-    new "Olivia的卧室"
+    new "奥利维亚的卧室"
 
     # game/script.rpy:160
     old "Cupboard"
@@ -710,7 +710,7 @@ translate chinese strings:
 
     # game/script.rpy:162
     old "Olivia’s Purse"
-    new "Olivia的钱包"
+    new "奥利维亚的钱包"
 
     # game/script.rpy:164
     old "Photo"
@@ -722,7 +722,7 @@ translate chinese strings:
 
     # game/script.rpy:168
     old "Bath Ducks"
-    new "浴鸭子"
+    new "小黄鸭"
 
     # game/script.rpy:170
     old "Toothbrush"
@@ -778,11 +778,11 @@ translate chinese strings:
 
     # game/script.rpy:196
     old "Dale"
-    new "Dale"
+    new "戴尔镇"
 
     # game/script.rpy:206
     old "All characters are 18 age or older even if specified otherwise."
-    new "所有字角色是18岁或以上，即使另有指定。"
+    new "除非另有说明，所有角色的年龄都在18岁以上。"
 
     # game/script.rpy:207
     old "This game contains violence, obscene scenes (naked girls and sex scenes), "
@@ -790,7 +790,7 @@ translate chinese strings:
 
     # game/script.rpy:208
     old "rude humor, scenes that depict smoking or infrequent use of profanity."
-    new "粗俗的幽默，描述吸烟或不经常使用脏话的场景。"
+    new "粗俗幽默，描述吸烟或不经常使用脏话的场景。"
 
     # game/script.rpy:330
     old "Warning!"
@@ -806,11 +806,11 @@ translate chinese strings:
 
     # game/script.rpy:333
     old "We hope this did not cause you any trouble."
-    new "我们希望这没有给您带来任何麻烦。"
+    new "我们希望这不会给您带来任何麻烦。"
 
     # game/script.rpy:334
     old "Enjoy the game!"
-    new "享受游戏!"
+    new "玩得开心!"
 
     # game/script.rpy:340
     old "Note that our game features LGBTQ+ scenes. If you're not interested in stuff like that at all, you can turn this option"
@@ -818,15 +818,15 @@ translate chinese strings:
 
     # game/script.rpy:340
     old "off right now (you can always turn it on later, in the settings). Leave this option enabled if you're only"
-    new "立即关闭(你可以随时在设置中打开它)。如果您只是，可以使选项保持开启"
+    new "立即关闭(你可以随时在设置中打开它)。如果您只对某些可能的内容感兴趣，请启用此选项"
 
     # game/script.rpy:340
     old "interested in some of the possible content. Don't worry! We'll ask you beforehand each"
-    new "对一些可能的内容感兴趣。别担心! 我们会事先问你们"
+    new "放心吧！每当有这样的机会互动时"
 
     # game/script.rpy:340
     old "time there's a chance to encounter such interactions."
-    new "是时候有机会遇到这样的互动了。"
+    new "我们都会事先询问你。"
 
     # game/script.rpy:340
     old "Do you want to enable LGBTQ+ content?"
@@ -842,11 +842,11 @@ translate chinese strings:
 
     # game/script.rpy:356
     old "On Sunday evening, all students return to Cordale. So you did."
-    new "周日晚上，所有学生返回Cordale。所以你做的。"
+    new "周日晚上，所有的学生都要返回克代尔。当然你也不例外。"
 
     # game/script.rpy:728
     old "{b}Olivia{/b} said I have to talk to Don about this rent thing. \nHe should be in the living room."
-    new "{b}Olivia{\b}说我得和Don谈谈房租的事。\n他应该在客厅里。"
+    new "{b}奥利维亚{\b}说我得和多恩谈谈房租的事。\n他应该在客厅里。"
 
     # game/script.rpy:748
     old "Enter your name"
@@ -870,7 +870,7 @@ translate chinese strings:
 
     # game/script.rpy:807
     old "Skip prologue"
-    new "跳过序言"
+    new "跳过序章"
 
 # TODO: Translation updated at 2022-03-03 04:01
 
@@ -882,23 +882,23 @@ translate chinese strings:
 
     # game/script.rpy:200
     old "Weekly competitions held"
-    new "每周举行的比赛"
+    new "每周赛事已举办"
 
     # game/script.rpy:202
     old "Leonheart wins"
-    new "Leonheart获胜"
+    new "里奥哈特获胜"
 
     # game/script.rpy:204
     old "Adderin wins"
-    new "Adderin获胜"
+    new "阿德琳获胜"
 
     # game/script.rpy:206
     old "Crowhive wins"
-    new "Crowhive获胜"
+    new "克罗海夫获胜"
 
     # game/script.rpy:208
     old "Martenden wins"
-    new "Martenden获胜"
+    new "马尔廷顿获胜"
 
     # game/script.rpy:210
     old "Lost books found"
@@ -914,11 +914,11 @@ translate chinese strings:
 
     # game/script.rpy:216
     old "Rictusempra Training"
-    new "Rictusempra培训"
+    new "Rictusempra训练"
 
     # game/script.rpy:218
     old "Incendio Training"
-    new "Incendio培训"
+    new "Incendio训练"
 
     # game/script.rpy:220
     old "Episkey Training"
@@ -926,11 +926,11 @@ translate chinese strings:
 
     # game/script.rpy:222
     old "Lesser Heal potions brewed"
-    new "酿造次级治疗药水"
+    new "配制微量治疗药水"
 
     # game/script.rpy:224
     old "Stoneskin potions brewed"
-    new "酿造石肤药剂"
+    new "配制石肤药剂"
 
     # game/script.rpy:226
     old "Inspiration potions brewed"
@@ -1002,7 +1002,7 @@ translate chinese strings:
 
     # game/script.rpy:260
     old "Found money"
-    new "发现钱"
+    new "你找到了钱"
 
     # game/script.rpy:262
     old "Worked shifts in the cafe"
@@ -1014,11 +1014,11 @@ translate chinese strings:
 
     # game/script.rpy:266
     old "Fishing trips on Dale"
-    new "在Dale钓鱼旅行"
+    new "戴尔镇的钓鱼之旅"
 
     # game/script.rpy:268
     old "Earned money fishing"
-    new "钓鱼的赚钱"
+    new "钓鱼赚的钱"
 
     # game/script.rpy:270
     old "Earned money another way"
@@ -1034,7 +1034,7 @@ translate chinese strings:
 
     # game/script.rpy:338
     old "To enjoy the game with 60fps animations and atmospheric sound design, we highly recommend trying the full version of Lust Academy."
-    new "为了享受60fps动画和大气音效设计的游戏，我们强烈建议尝试Lust Academy的完整版本。"
+    new "为了享受60帧动画以及具有氛围感的音效设计，我们强烈建议尝试Lust Academy的完整版本。"
 
     # game/script.rpy:339
     old "Check out our {a=https://www.patreon.com/bearinthenight}Bear in the Night fan page{/a} for more details and to support the project!"
@@ -1078,7 +1078,7 @@ translate chinese strings:
 
     # game/script.rpy:282
     old "Lesser Heal Potion"
-    new "次级治疗药水"
+    new "微量治疗药水"
 
     # game/script.rpy:284
     old "Magic Reflection Potion"
