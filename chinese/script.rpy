@@ -4,13 +4,13 @@
 translate chinese 69ff737f:
 
     # "Here you can keep track of all the routes, activities, etc. that are available to you. and quickly navigate to the desired one, without wasting time walking around the locations and searching. Next to the avatars of the characters are icons, the decoding of which is next."
-    "在这里，你可以跟踪所有的可以的路线，活动等，并快速导航到所需的一个，而不浪费时间走过地图和搜索。在角色的化身旁边的图标，是对图标的解释。"
+    "在这里你可以追踪所有的路线、活动等可用的互动内容。并快速导航到所需的位置，而无需浪费时间四处走动和搜索。人物头像旁边是图标，接下来是对图标的解释。"
 
 # game/script.rpy:742
 translate chinese start_54c881dc:
 
     # NoName "Hi! My name is..."
-    NoName "你好！我的名字是..."
+    NoName "你好！我叫..."
 
 # game/script.rpy:768
 translate chinese start_input_2_a0ecd7a8:
@@ -814,19 +814,19 @@ translate chinese strings:
 
     # game/script.rpy:340
     old "Note that our game features LGBTQ+ scenes. If you're not interested in stuff like that at all, you can turn this option"
-    new "注意，我们的游戏以LGBTQ+场景为特色。如果你对这样的东西一点都不感兴趣，你可以关闭这个选项"
+    new "注意，我们的游戏以LGBTQ+场景为特色。如果你对这样的东西一点都不感兴趣，你可以关闭这个选项(你可以以后在设置中打开它)。"
 
     # game/script.rpy:340
     old "off right now (you can always turn it on later, in the settings). Leave this option enabled if you're only"
-    new "立即关闭(你可以随时在设置中打开它)。如果您只是，可以使选项保持开启"
+    new "如果您只对某些可能的内容感兴趣，请启用此选项。"
 
     # game/script.rpy:340
     old "interested in some of the possible content. Don't worry! We'll ask you beforehand each"
-    new "对一些可能的内容感兴趣。别担心! 我们会事先问你们"
+    new "放心吧！"
 
     # game/script.rpy:340
     old "time there's a chance to encounter such interactions."
-    new "是时候有机会遇到这样的互动了。"
+    new "每次有机会遇到这样的互动时，我们都会事先询问你"
 
     # game/script.rpy:340
     old "Do you want to enable LGBTQ+ content?"
@@ -842,7 +842,7 @@ translate chinese strings:
 
     # game/script.rpy:356
     old "On Sunday evening, all students return to Cordale. So you did."
-    new "周日晚上，所有学生返回Cordale。所以你做的。"
+    new "周日晚上，所有学生返回Cordale。你也不例外。"
 
     # game/script.rpy:728
     old "{b}Olivia{/b} said I have to talk to Don about this rent thing. \nHe should be in the living room."
@@ -870,7 +870,7 @@ translate chinese strings:
 
     # game/script.rpy:807
     old "Skip prologue"
-    new "跳过序言"
+    new "跳过序章"
 
 # TODO: Translation updated at 2022-03-03 04:01
 
@@ -1034,7 +1034,7 @@ translate chinese strings:
 
     # game/script.rpy:338
     old "To enjoy the game with 60fps animations and atmospheric sound design, we highly recommend trying the full version of Lust Academy."
-    new "为了享受60fps动画和大气音效设计的游戏，我们强烈建议尝试Lust Academy的完整版本。"
+    new "为了体验60帧的动画和有氛围感的音效设计的游戏，我们强烈建议尝试Lust Academy的完整版本。"
 
     # game/script.rpy:339
     old "Check out our {a=https://www.patreon.com/bearinthenight}Bear in the Night fan page{/a} for more details and to support the project!"
@@ -1054,7 +1054,7 @@ translate chinese strings:
 
     # game/script.rpy:272
     old "{size=15}Note that night visits are entirely optional.{/size} \n{size=15}This additional content is not required to complete the game{/size} \n{size=15}and won’t influence your relationship with other characters.{/size}"
-    new "{size=15}请注意，夜间访问完全是可选的。{/size} \n{size=15}完成游戏不需要这些额外的内容{/size} \n{size=15}并且不会影响你与其他角色的关系。{/size}"
+    new "{size=15}请注意，半夜偷窥是完全可选的。{/size} \n{size=15}完成游戏不需要这些额外的内容{/size} \n{size=15}并且不会影响你与其他角色的关系。{/size}"
 
     # game/script.rpy:274
     old "1st"
