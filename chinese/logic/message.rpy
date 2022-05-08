@@ -28,7 +28,7 @@ translate chinese strings:
 
     # game/logic/message.rpy:3
     old "New recipe {0}"
-    new "新食谱 {0}"
+    new "新配方 {0}"
 
     # game/logic/message.rpy:3
     old "New spell: {0}"
