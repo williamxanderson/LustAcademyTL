@@ -300,11 +300,11 @@ translate chinese strings:
 
     # game/screens.rpy:792
     old "Possibility To Choose Desired Content"
-    new "选择理想内容的可能性"
+    new "想怎么选就怎么选"
 
     # game/screens.rpy:794
     old "Optional Mini-Games And Activities"
-    new "可选的迷你游戏和活动"
+    new "各种小游戏和活动任您选择"
 
     # game/screens.rpy:802
     old "VISUAL NOVEL"
@@ -316,11 +316,11 @@ translate chinese strings:
 
     # game/screens.rpy:809
     old "Occasional Choices"
-    new "少量的选择"
+    new "有限的选择"
 
     # game/screens.rpy:811
     old "Plot-Driven Structure"
-    new "时下结构"
+    new "剧情驱动的故事结构"
 
     # game/screens.rpy:2320
     old "DISPLAY"
