@@ -4,7 +4,7 @@
 translate chinese sheet_27_a5cb088f:
 
     # Victoria "Now we will commit the eldest tradition of Cordale."
-    Victoria "现在我们要发扬Cordale家族最古老的传统。"
+    Victoria "现在我们要弘扬Cordale最古老的传统。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:6
 translate chinese sheet_27_ac9396b7:
@@ -16,7 +16,7 @@ translate chinese sheet_27_ac9396b7:
 translate chinese sheet_27_713a9741:
 
     # Victoria "The oldest artifact of Cordale!"
-    Victoria "Cordale最古老的工艺品!"
+    Victoria "是Cordale最古老的神器!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:10
 translate chinese sheet_27_1fba55a7:
@@ -28,55 +28,55 @@ translate chinese sheet_27_1fba55a7:
 translate chinese sheet_27_c3119d82:
 
     # Victoria "It was created by four founders of the academy."
-    Victoria "它是由学院的四位创始人创建的。"
+    Victoria "由学院的四位创始人所著。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:14
 translate chinese sheet_27_775062cb:
 
     # Victoria "Each of them sealed part of her soul inside this book."
-    Victoria "每个人都把她灵魂的一部分封存在这本书里。"
+    Victoria "她们每个人都把灵魂的一部分封存在这本书里。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:17
 translate chinese sheet_27_86c9c1fb:
 
     # Lily "I'm sorry... You said they sealed their souls?!"
-    Lily "我很抱歉... 你说他们封住了灵魂?!"
+    Lily "抱歉...你说她们把灵魂封印了？！"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:19
 translate chinese sheet_27_dc31d2f5:
 
     # Victoria "Well, parts of their souls."
-    Victoria "他们灵魂的一部分。"
+    Victoria "是他们灵魂的一部分。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:21
 translate chinese sheet_27_15254895:
 
     # Naomi "Define \"parts\", please."
-    Naomi "请定义“零件”。"
+    Naomi "你怎么定义“一部分”？"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:23
 translate chinese sheet_27_0b4df4c6:
 
     # Haley "How is this even possible to divide your soul?"
-    Haley "怎么可能分裂你的灵魂呢?"
+    Haley "你怎么可能分裂自己的灵魂呢?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:25
 translate chinese sheet_27_6a8a6c64:
 
     # Victoria "It's magical arithmetics."
-    Victoria "这是神奇的算法。"
+    Victoria "只要通过魔法计算。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:27
 translate chinese sheet_27_30157c97:
 
     # Victoria "You'll have this lesson later."
-    Victoria "你稍后再上这节课。"
+    Victoria "以后你们会学到这门课的。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:29
 translate chinese sheet_27_e1462c7b:
 
     # Victoria "Just believe me that there are parts of their souls."
-    Victoria "相信我，他们的灵魂是有一部分的。"
+    Victoria "相信我，这里面真的有她们的一部分灵魂。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:31
 translate chinese sheet_27_dae96228:
@@ -94,19 +94,19 @@ translate chinese sheet_27_4130ae16:
 translate chinese sheet_27_96934276:
 
     # Victoria "Your friends, teachers, future opportunities. "
-    Victoria "你的朋友，老师，未来的机会。"
+    Victoria "你的朋友，老师，以及未来的机会。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:37
 translate chinese sheet_27_9f6e6ab4:
 
     # Victoria "Everyone in the world of wizardry revolve around their connections, made inside these walls."
-    Victoria "魔法世界里的每个人都围绕着他们在这面墙里建立的联系。"
+    Victoria "魔法世界里的每个人都围绕着他们在这四面高墙内所建立的联系。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:39
 translate chinese sheet_27_9cf4fe67:
 
     # Victoria "There are four houses named after four founders of Cordale."
-    Victoria "四所房子是以Cordale的四位创始人命名的。"
+    Victoria "四大分院是以Cordale的四位创始人命名的。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:42
 translate chinese sheet_27_75e8cb13:
@@ -124,19 +124,19 @@ translate chinese sheet_27_b0ae8dcc:
 translate chinese sheet_27_a9fcd493:
 
     # Victoria "She believed that only courage and nobility could make a magician great."
-    Victoria "她相信只有勇气和高贵才能使魔术师伟大。"
+    Victoria "她相信只有勇气和高贵才能使魔法师伟大。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:50
 translate chinese sheet_27_d998822a:
 
     # Victoria "Naturally..."
-    Victoria "自然..."
+    Victoria "很自然地..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:51
 translate chinese sheet_27_f71c8d65:
 
     # Victoria "The house of Leonheart includes people who honor her teachings."
-    Victoria "Leonheart家族的人都尊重她的教诲。"
+    Victoria "Leonheart分院的人都尊重她的教诲。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:56
 translate chinese sheet_27_97fb5337:
@@ -148,19 +148,19 @@ translate chinese sheet_27_97fb5337:
 translate chinese sheet_27_391bc7a8:
 
     # Victoria "She thought that only pureblood sorcerers are worthy."
-    Victoria "她认为只有纯血统的巫师才有资格。"
+    Victoria "她认为只有纯血统的术士才有资格。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:58
 translate chinese sheet_27_738cba1a:
 
     # Victoria "Her cunning and dedication have no match."
-    Victoria "她的狡猾和献身精神无人能敌。"
+    Victoria "她的老谋深算和献身精神无人能敌。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:59
 translate chinese sheet_27_cf787793:
 
     # Victoria "Those are the basis of the principles of the Adderin house."
-    Victoria "这些是Adderin家族原则的基础。"
+    Victoria "这些是Adderin分院原则的基础。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:65
 translate chinese sheet_27_50fc92c4:
@@ -172,19 +172,19 @@ translate chinese sheet_27_50fc92c4:
 translate chinese sheet_27_41902f85:
 
     # Victoria "She chose to acquire all knowledge of the nature of magic..."
-    Victoria "她选择学习所有关于魔法本质的知识..."
+    Victoria "她打算学习所有关于魔法本质的知识..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:67
 translate chinese sheet_27_f3b0cfee:
 
     # Victoria "Forsaking her personal ambitions."
-    Victoria "放弃她的个人抱负。"
+    Victoria "甚至放弃她的个人抱负。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:68
 translate chinese sheet_27_b9e78c06:
 
     # Victoria "The Crowhive house is for people who are ready to continue her journey."
-    Victoria "Crowhive家族是为那些准备好继续她的旅程的人准备的。"
+    Victoria "Crowhive分院是为那些打算继承她的遗志的人所准备的。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:73
 translate chinese sheet_27_6620202f:
@@ -208,25 +208,25 @@ translate chinese sheet_27_b26535d6:
 translate chinese sheet_27_846ab114:
 
     # Victoria "Only with these qualities you can get into the Martenden house."
-    Victoria "只有具备这些品质，你才能进入Martenden家。"
+    Victoria "只有具备这些品质，你才能进入Martenden分院。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:80
 translate chinese sheet_27_678f3dcd:
 
     # ch_Name "{i}(I hope I'm not the first to choose.){/i}"
-    ch_Name "{i}(我希望我不是第一个选择。){/i}"
+    ch_Name "{i}(我希望我不是第一个要上台选择的人。){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:82
 translate chinese sheet_27_7d31fa79:
 
     # ch_Name "{i}(I don't want to end up on some loser house.){/i}"
-    ch_Name "{i}(我可不想死在什么烂房子里。){/i}"
+    ch_Name "{i}(我可不想在什么垃圾分院里草草结束。){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:84
 translate chinese sheet_27_2f7bd18d:
 
     # ch_Name "{i}(Alone, far away from all the hot chics I've met today.){/i}"
-    ch_Name "{i}(一个人，远离我今天遇到的那些辣妹。){/i}"
+    ch_Name "{i}(孤家寡人，和我今天遇到的那些辣妹天各一方。){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:86
 translate chinese sheet_27_552a0b19:
@@ -238,7 +238,7 @@ translate chinese sheet_27_552a0b19:
 translate chinese sheet_27_7d6b1319:
 
     # Victoria "So, the person I'll name should come to the table."
-    Victoria "我要提到的那个人应该到桌边来。"
+    Victoria "我点到名的那个人要到桌边来。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:90
 translate chinese sheet_27_de96592c:
@@ -250,13 +250,13 @@ translate chinese sheet_27_de96592c:
 translate chinese sheet_27_d102de02:
 
     # Victoria "And tell us where the book sorted him or her."
-    Victoria "告诉我们书把他或她分类在哪里。"
+    Victoria "并告诉我们这本书把他或她分配去了哪里。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:94
 translate chinese sheet_27_a6c9909b:
 
     # ch_Name "How will we know?"
-    ch_Name "我们怎么知道呢?"
+    ch_Name "我们怎么才能知道呢?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:96
 translate chinese sheet_27_1a92f1d0:
@@ -274,7 +274,7 @@ translate chinese sheet_27_44c75612:
 translate chinese sheet_27_2ba1eae5:
 
     # Victoria "Hm, let's see..."
-    Victoria "嗯，让我们看看..."
+    Victoria "嗯，我们看看..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:102
 translate chinese sheet_27_92004551:
@@ -292,19 +292,19 @@ translate chinese sheet_27_2f82bef4:
 translate chinese sheet_27_a8854110:
 
     # Lily "Drag, I wanted to be the first!"
-    Lily "龙，我想当第一个!"
+    Lily "唉，我想当第一个!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:108
 translate chinese sheet_27_95f55978:
 
     # ch_Name "These two... Are they ever nervous?"
-    ch_Name "这两个... 他们会紧张吗?"
+    ch_Name "她们两个...会紧张吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:110
 translate chinese sheet_27_2214304f:
 
     # Naomi "Alright, book!"
-    Naomi "好了，书!"
+    Naomi "好，我来了！"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:112
 translate chinese sheet_27_d650531e:
@@ -316,7 +316,7 @@ translate chinese sheet_27_d650531e:
 translate chinese sheet_27_98565ff7:
 
     # Naomi "Adderin or nothing."
-    Naomi "Adderin或什么都没有。"
+    Naomi "要么Adderin，要么就哪也不去。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:118
 translate chinese sheet_27_d4d031d0:
@@ -370,19 +370,19 @@ translate chinese sheet_27_389b346c:
 translate chinese sheet_27_e7f95bd6:
 
     # Victoria "Those who were sorted - please exit to the Inner Garden."
-    Victoria "已经分好的，请到内花园去。"
+    Victoria "已经分配好分院的同学，请到内花园去。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:133
 translate chinese sheet_27_f8cade94:
 
     # Victoria "Your prefects will meet you there."
-    Victoria "你们的级长会在那里和你们会合。"
+    Victoria "你们的分院长会在那里和你们会合。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:135
 translate chinese sheet_27_3a08ff3d:
 
     # Victoria "Next up... "
-    Victoria "接下来..."
+    Victoria "下一个..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:137
 translate chinese sheet_27_440bf3d2:
@@ -400,7 +400,7 @@ translate chinese sheet_27_9007572e:
 translate chinese sheet_27_c7c367c5:
 
     # ch_Name "Do you know where you wanna end up?"
-    ch_Name "你知道你想在哪里结束吗?"
+    ch_Name "你知道你的归宿在哪吗?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:143
 translate chinese sheet_27_0d9f599a:
@@ -412,31 +412,31 @@ translate chinese sheet_27_0d9f599a:
 translate chinese sheet_27_ad70b619:
 
     # Haley "I'd either be Leonheart or Crowhive."
-    Haley "我要么是Leonheart，要么是Crowhive。"
+    Haley "我要么去Leonheart，要么去Crowhive。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:147
 translate chinese sheet_27_65346e11:
 
     # ch_Name "Nice choice, I guess. Good luck!"
-    ch_Name "不错的选择，我想。好运！"
+    ch_Name "看来是个不错的选择。祝你好运！"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:149
 translate chinese sheet_27_d356a16a:
 
     # Haley "Thank you. "
-    Haley "谢谢你！"
+    Haley "谢谢！"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:151
 translate chinese sheet_27_f6b2f095:
 
     # ch_Name "{i}(I need to think of the house I want to join...){/i}"
-    ch_Name "{i}(我需要考虑我想加入的家族...){/i}"
+    ch_Name "{i}(我需要考虑我想加入的分院...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:153
 translate chinese sheet_27_5952edb2:
 
     # ch_Name "{i}(Maybe the book feels such things.){/i}"
-    ch_Name "{i}(也许这本书有这种感觉。){/i}"
+    ch_Name "{i}(也许这本书里有某种神秘力量。){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:155
 translate chinese sheet_27_3e70098a:
@@ -460,7 +460,7 @@ translate chinese sheet_27_bf9d4a3e:
 translate chinese sheet_27_e869c2a9:
 
     # Haley "It's so...{w} beautiful!"
-    Haley "它是如此...{w} 漂亮!"
+    Haley "它是那么的...{w} 漂亮!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:167
 translate chinese sheet_27_b808e6d3:
@@ -490,19 +490,19 @@ translate chinese sheet_27_c9560cb2_1:
 translate chinese sheet_27_9c3b69ff:
 
     # Haley "I'm Leonheart!{w} Yeah!"
-    Haley "我是Leonheart!{w} 耶!"
+    Haley "我是Leonheart人了!{w} 耶!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:178
 translate chinese sheet_27_389b346c_1:
 
     # Victoria "Congratulations!"
-    Victoria "恭喜你!"
+    Victoria "恭喜!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:180
 translate chinese sheet_27_aef6bd95:
 
     # Victoria "Alright! "
-    Victoria "好吧!"
+    Victoria "好了!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:182
 translate chinese sheet_27_a1dbb544:
@@ -544,19 +544,19 @@ translate chinese sheet_27_08c20d15:
 translate chinese sheet_27_50e731fc:
 
     # Lily "Leonheart, please!"
-    Lily "Leonheart，请!"
+    Lily "Leonheart，拜托了!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:199
 translate chinese sheet_27_8c0915e8:
 
     # Lily "How intriguing!"
-    Lily "多么有趣!"
+    Lily "真有趣!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:200
 translate chinese sheet_27_f3c3a17c:
 
     # Lily "Please, let it be Leonheart!"
-    Lily "求你了，让Leonheart来吧!"
+    Lily "求你了，让我加入Leonheart吧!"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:201
 translate chinese sheet_27_aedf1fff:
@@ -622,7 +622,7 @@ translate chinese sheet_27_cce502b8:
 translate chinese sheet_27_3d1e8b84:
 
     # ch_Name "{i}(Every house got some juice...){/i}"
-    ch_Name "{i}(每家每户都有果汁...){/i}"
+    ch_Name "{i}(每个分院都有辣妹...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:224
 translate chinese sheet_27_36eb7d6c:
@@ -634,7 +634,7 @@ translate chinese sheet_27_36eb7d6c:
 translate chinese sheet_27_a9eee12d:
 
     # ch_Name "{i}(While both Leonheart and Adderin got some juice.){/i}"
-    ch_Name "{i}(Leonheart和Adderin都得到了一些果汁。){/i}"
+    ch_Name "{i}(Leonheart和Adderin都招到了一些妹子。){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:228
 translate chinese sheet_27_e7d94bac:
@@ -652,19 +652,19 @@ translate chinese sheet_27_77fe89f0:
 translate chinese test_sheet_27_d4c2202d:
 
     # ch_Name "How does choosing a house affect us?"
-    ch_Name "选家族对我们有什么影响?"
+    ch_Name "选分院对我们有什么影响?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:241
 translate chinese test_sheet_27_ea9c9985:
 
     # Victoria "It is a great honor and an even greater responsibility to represent your house."
-    Victoria "这是一个巨大的荣誉和更大的责任，代表你们的家族。"
+    Victoria "代表你的学院是一份莫大的荣誉，也是更重的责任。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:243
 translate chinese test_sheet_27_a912cb4c:
 
     # Victoria "The houses compete each year to see who is the best..."
-    Victoria "每所学院每年都要比赛，看谁是最好的..."
+    Victoria "每所学院每年都要比赛，看看谁才是最优秀的..."
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:244
 translate chinese test_sheet_27_e865954a:
@@ -676,7 +676,7 @@ translate chinese test_sheet_27_e865954a:
 translate chinese test_sheet_27_35c3980f:
 
     # Victoria "The house with the most points at the end of the year wins."
-    Victoria "年底得分最多的家族将获胜。"
+    Victoria "年底得分最多的分院将获胜。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:249
 translate chinese test_sheet_27_c6a9a807:
@@ -688,31 +688,31 @@ translate chinese test_sheet_27_c6a9a807:
 translate chinese test_sheet_27_56012d2b:
 
     # Victoria "...but disciplinary offenses will, however, take them away."
-    Victoria "但是违反纪律的行为会把它们带走。"
+    Victoria "但是违纪行为会把你的分数扣掉。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:254
 translate chinese test_sheet_27_7156b113:
 
     # ch_Name "Understood. I'm ready."
-    ch_Name "理解。我准备好了。"
+    ch_Name "明白了。我准备好了。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:257
 translate chinese sheet_27_put_your_hand_over_0238d127:
 
     # Victoria "Put your hand over the right page."
-    Victoria "把你的手放在右边的页上。"
+    Victoria "把你的手放在右边的书页上。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:259
 translate chinese sheet_27_put_your_hand_over_2810d8ca:
 
     # ch_Name "Is that all?"
-    ch_Name "这是所有吗?"
+    ch_Name "就这?"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:261
 translate chinese sheet_27_put_your_hand_over_6b9a2085:
 
     # Victoria "That's all."
-    Victoria "这是所有。"
+    Victoria "就是这样。"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:265
 translate chinese sheet_27_put_your_hand_over_939fcc22:
@@ -724,7 +724,7 @@ translate chinese sheet_27_put_your_hand_over_939fcc22:
 translate chinese sheet_27_put_your_hand_over_f8814035:
 
     # ch_Name "{i}(I was sure there would be some kind of trick...){/i}"
-    ch_Name "{i}(我敢肯定会有什么花招...){/i}"
+    ch_Name "{i}(我敢肯定会有什么小把戏...){/i}"
 
 # game/logic/episodes_after_first/ep2/sheet_27.rpy:270
 translate chinese sheet_27_put_your_hand_over_0fa60224:
